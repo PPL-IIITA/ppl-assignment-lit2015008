@@ -4,7 +4,7 @@ Name of Student : Meha Ranjan
 Enrollment Number : LIT2015008
 Section - A
 
-Operating System : Windows 10 Compiler : Dev-C++ 5.11
+Operating System : Windows 10 Compiler : Dev-C++ IDE
 
 To run the ppl_main.cpp file , run the file normally on dev-c++ and give an input k to print 'k' most happy and compatible couples.
 
