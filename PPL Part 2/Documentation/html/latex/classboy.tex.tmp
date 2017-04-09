@@ -1,0 +1,47 @@
+\hypertarget{classboy}{}\section{boy Class Reference}
+\label{classboy}\index{boy@{boy}}
+
+
+Inheritance diagram for boy\+:
+% FIG 0
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void {\bfseries setb} (char $\ast$n, int a, int i, double b, int r, int t, int s)\hypertarget{classboy_a3ccad12dbebeb5aecd112111c62a8945}{}\label{classboy_a3ccad12dbebeb5aecd112111c62a8945}
+
+\item 
+void {\bfseries seth} (\hyperlink{classgirl}{girl} g, double p, double v)\hypertarget{classboy_a7ccdf82ab45ed3ac088e038edb0b12ab}{}\label{classboy_a7ccdf82ab45ed3ac088e038edb0b12ab}
+
+\end{DoxyCompactItemize}
+\subsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+char $\ast$ {\bfseries name} = (char $\ast$)malloc(13$\ast$sizeof(char))\hypertarget{classboy_aef4224bee91ea3eddaec1bc0341f5ec2}{}\label{classboy_aef4224bee91ea3eddaec1bc0341f5ec2}
+
+\item 
+int {\bfseries attractiveness}\hypertarget{classboy_a8fff0880998598f79dc602a4345f0c67}{}\label{classboy_a8fff0880998598f79dc602a4345f0c67}
+
+\item 
+int {\bfseries intelligence}\hypertarget{classboy_a3f66ab5d6e4d99adce1a8d33a4f2fb82}{}\label{classboy_a3f66ab5d6e4d99adce1a8d33a4f2fb82}
+
+\item 
+double {\bfseries budget}\hypertarget{classboy_ab5d10431f23fd0e03b7654f23cddc918}{}\label{classboy_ab5d10431f23fd0e03b7654f23cddc918}
+
+\item 
+int {\bfseries req}\hypertarget{classboy_a9e6ba507f2c7fccefacfb904e8526241}{}\label{classboy_a9e6ba507f2c7fccefacfb904e8526241}
+
+\item 
+int {\bfseries status}\hypertarget{classboy_a9cefa4f67f3e53439a6baa96628a9a8a}{}\label{classboy_a9cefa4f67f3e53439a6baa96628a9a8a}
+
+\item 
+int {\bfseries type}\hypertarget{classboy_a53f19b290e6f6930623ca571a7d38e18}{}\label{classboy_a53f19b290e6f6930623ca571a7d38e18}
+
+\item 
+double {\bfseries happiness} = 0\hypertarget{classboy_a9f34141371ac2bbf977531dc7414963f}{}\label{classboy_a9f34141371ac2bbf977531dc7414963f}
+
+\end{DoxyCompactItemize}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+boy.\+h\end{DoxyCompactItemize}
